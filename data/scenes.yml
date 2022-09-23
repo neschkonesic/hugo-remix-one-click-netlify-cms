@@ -1,5 +1,5 @@
 en:
-  title: Custom <span>Solutions</span>
+  title: Custom <span>Solutions-izbor</span>
   backgroundTitle: Solutions
   portText: In tempor esse aute sint Lorem. Dolor velit qui anim sunt mollit
     excepteur ipsum mollit quis.
@@ -32,6 +32,11 @@ en:
         pariatur pariatur occaecat eiusmod magna aute aliqua exercitation.
         Exercitation et amet nisi sunt id sit ex eiusmod sit deserunt.
       icon: fa-heart
+    - coverImage: /media/cat.jpg
+      name: maca duga
+      cSlug: s1
+      description: ok
+      icon: ok
 fr:
   title: <span>Solutions</span> by Industry
   backgroundTitle: Welcome
