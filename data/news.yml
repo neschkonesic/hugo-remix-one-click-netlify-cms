@@ -1,8 +1,8 @@
 en:
-  title: Latest <span>News</span>
-  backgroundTitle: News
-  portText:
+  title: Poslednje <span>Vesti</span>
+  backgroundTitle: Vesti
+  portText: null
 fr:
   title: Nos <span>publications</span>
   backgroundTitle: Actualités
-  portText:
+  portText: null
