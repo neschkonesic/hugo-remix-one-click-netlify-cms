@@ -1,20 +1,23 @@
 en:
-  title: <span>About</span>
-  backgroundTitle: About
-  portText:
+  title: <span>O nama</span>
+  backgroundTitle: O nama
+  portText: null
   items:
     - icon: fa-award
       title: Lorem ipsum dolor sit amet
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
         libero, perspiciatis eos provident laborum eum dignissimos.
     - icon: fa-compass
-      title: "We are on your side."
+      title: We are on your side.
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
         libero, perspiciatis eos provident laborum eum dignissimos.
     - icon: fa-leaf
       title: We care.
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
         libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: fa-award
+      title: Neško
+      content: nešto Neško
 fr:
   title: <span>À propos</span>
   backgroundTitle: À propos
