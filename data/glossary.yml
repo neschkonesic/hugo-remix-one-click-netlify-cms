@@ -1,20 +1,20 @@
 en:
-  contact: Contact
+  contact: Kontakt
   cta1: See the demo
   cta2: Documentation
+  about: O nama
+  product: Izabrano
+  news: Vesti
+  solution: Izbor
+  list: Lista
+  home: Naslovna
+fr:
+  contact: Contact
+  cta1: Demo
+  cta2: Installation
   about: About
   product: Features
   news: News
   solution: Solution
   list: List
   home: Home
-fr:
-  contact: Kontakt
-  cta1: Demo
-  cta2: Installation
-  about: O nama
-  product: Izabrano
-  news: Vesti
-  solution: Solucije
-  list: Lista
-  home: Naslovna
